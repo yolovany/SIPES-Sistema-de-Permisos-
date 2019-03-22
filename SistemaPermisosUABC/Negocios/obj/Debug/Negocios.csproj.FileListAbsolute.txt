@@ -1,0 +1,45 @@
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\bin\Debug\Datos.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\bin\Debug\Datos.pdb
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Negocios.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Datos.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\bin\Debug\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Negocios\obj\Debug\Negocios.pdb

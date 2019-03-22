@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\SistemaPermisosFIAD</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="apiapp.json">
+      <publishTime>05/25/2017 16:51:14</publishTime>
+    </File>
+    <File Include="assets/css/font-awesome.min.css">
+      <publishTime>05/20/2017 16:49:48</publishTime>
+    </File>
+    <File Include="assets/css/ie8.css">
+      <publishTime>05/26/2017 16:29:34</publishTime>
+    </File>
+    <File Include="assets/css/ie9.css">
+      <publishTime>05/26/2017 16:29:32</publishTime>
+    </File>
+    <File Include="assets/css/images/balls_loading.gif">
+      <publishTime>05/30/2017 22:00:41</publishTime>
+    </File>
+    <File Include="assets/css/main.css">
+      <publishTime>06/07/2017 18:03:37</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.eot">
+      <publishTime>05/20/2017 16:49:48</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.svg">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.ttf">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.woff">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.woff2">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/fonts/FontAwesome.otf">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/ie/backgroundsize.min.htc">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/ie/html5shiv.js">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/ie/respond.min.js">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.min.js">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.scrollex.min.js">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.scrolly.min.js">
+      <publishTime>05/20/2017 16:49:50</publishTime>
+    </File>
+    <File Include="assets/js/main.js">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/js/skel.min.js">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/js/util.js">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/base/_page.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/base/_typography.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_box.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_button.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_contact-method.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_form.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_icon.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_image.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_list.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_section.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_spotlights.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_table.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/components/_tiles.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/ie8.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/ie9.scss">
+      <publishTime>05/20/2017 16:49:52</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_banner.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_contact.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_footer.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_header.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_main.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_menu.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/layout/_wrapper.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/libs/_functions.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/libs/_mixins.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/libs/_skel.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/libs/_vars.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="assets/sass/main.scss">
+      <publishTime>05/20/2017 16:49:54</publishTime>
+    </File>
+    <File Include="AvisoRespuestaNegadaRegistrada.aspx">
+      <publishTime>06/05/2017 16:00:49</publishTime>
+    </File>
+    <File Include="AvisoRespuestaRegistrada.aspx">
+      <publishTime>06/07/2017 18:12:41</publishTime>
+    </File>
+    <File Include="AvisoSolicitudEnviada.aspx">
+      <publishTime>06/03/2017 20:25:44</publishTime>
+    </File>
+    <File Include="AvisoSolicitudRevisada.aspx">
+      <publishTime>06/03/2017 19:14:41</publishTime>
+    </File>
+    <File Include="bin/Datos.dll">
+      <publishTime>06/30/2017 10:13:11</publishTime>
+    </File>
+    <File Include="bin/Datos.pdb">
+      <publishTime>06/30/2017 10:13:11</publishTime>
+    </File>
+    <File Include="bin/Entidades.dll">
+      <publishTime>06/30/2017 10:13:10</publishTime>
+    </File>
+    <File Include="bin/Entidades.pdb">
+      <publishTime>06/30/2017 10:13:10</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>03/20/2017 14:10:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 16:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/07/2016 11:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 15:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2016 15:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <publishTime>12/01/2015 14:31:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.dll">
+      <publishTime>04/07/2014 12:26:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>04/07/2014 12:26:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>04/07/2014 12:26:14</publishTime>
+    </File>
+    <File Include="bin/Negocios.dll">
+      <publishTime>06/30/2017 10:13:12</publishTime>
+    </File>
+    <File Include="bin/Negocios.pdb">
+      <publishTime>06/30/2017 10:13:12</publishTime>
+    </File>
+    <File Include="bin/SistemaPermisosUABC.dll">
+      <publishTime>06/30/2017 10:13:15</publishTime>
+    </File>
+    <File Include="bin/SistemaPermisosUABC.pdb">
+      <publishTime>06/30/2017 10:13:15</publishTime>
+    </File>
+    <File Include="bin/System.IO.dll">
+      <publishTime>02/18/2015 17:07:08</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.dll">
+      <publishTime>02/18/2015 17:07:08</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.dll">
+      <publishTime>02/18/2015 17:07:08</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>06/07/2017 19:16:20</publishTime>
+    </File>
+    <File Include="EnviarReportesYEvidencias.aspx">
+      <publishTime>06/05/2017 13:14:20</publishTime>
+    </File>
+    <File Include="footer.ascx">
+      <publishTime>05/20/2017 16:59:38</publishTime>
+    </File>
+    <File Include="generic.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="images/banner.jpg">
+      <publishTime>05/11/2017 02:46:30</publishTime>
+    </File>
+    <File Include="images/banner2.jpg">
+      <publishTime>06/05/2017 08:44:57</publishTime>
+    </File>
+    <File Include="images/banner3.jpg">
+      <publishTime>06/05/2017 08:52:02</publishTime>
+    </File>
+    <File Include="images/green.png">
+      <publishTime>06/01/2017 19:00:38</publishTime>
+    </File>
+    <File Include="images/hecho.png">
+      <publishTime>05/30/2017 01:39:04</publishTime>
+    </File>
+    <File Include="images/pic01.jpg">
+      <publishTime>05/25/2017 22:43:06</publishTime>
+    </File>
+    <File Include="images/pic02.jpg">
+      <publishTime>05/11/2017 00:49:30</publishTime>
+    </File>
+    <File Include="images/pic03.jpg">
+      <publishTime>05/13/2017 00:33:04</publishTime>
+    </File>
+    <File Include="images/pic04.jpg">
+      <publishTime>05/25/2017 22:32:30</publishTime>
+    </File>
+    <File Include="images/pic05.jpg">
+      <publishTime>05/20/2017 16:49:46</publishTime>
+    </File>
+    <File Include="images/pic06.jpg">
+      <publishTime>05/13/2017 00:32:48</publishTime>
+    </File>
+    <File Include="images/pic07.jpg">
+      <publishTime>05/13/2017 00:32:56</publishTime>
+    </File>
+    <File Include="images/pic08.jpg">
+      <publishTime>05/13/2017 00:33:50</publishTime>
+    </File>
+    <File Include="images/pic09.jpg">
+      <publishTime>05/13/2017 00:34:06</publishTime>
+    </File>
+    <File Include="images/pic10.jpg">
+      <publishTime>05/25/2017 22:35:28</publishTime>
+    </File>
+    <File Include="images/pic11.jpg">
+      <publishTime>05/20/2017 16:49:48</publishTime>
+    </File>
+    <File Include="images/usuario.png">
+      <publishTime>05/20/2017 17:05:00</publishTime>
+    </File>
+    <File Include="IndiqueFolio.aspx">
+      <publishTime>06/07/2017 18:28:29</publishTime>
+    </File>
+    <File Include="InformacionDeSolicitud.aspx">
+      <publishTime>06/04/2017 23:00:46</publishTime>
+    </File>
+    <File Include="LoginPage.aspx">
+      <publishTime>05/26/2017 23:28:32</publishTime>
+    </File>
+    <File Include="LoginPageResponsable.aspx">
+      <publishTime>05/29/2017 00:34:53</publishTime>
+    </File>
+    <File Include="Metadata/deploymentTemplates/apiappconfig.azureresource.json">
+      <publishTime>05/25/2017 16:51:10</publishTime>
+    </File>
+    <File Include="MP_PrincipalConSesion.Master">
+      <publishTime>06/01/2017 18:30:57</publishTime>
+    </File>
+    <File Include="MP_PrincipalSinSesion.Master">
+      <publishTime>06/05/2017 05:12:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/08/2017 03:46:18</publishTime>
+    </File>
+    <File Include="PrincipalConSesion.aspx">
+      <publishTime>06/08/2017 06:19:07</publishTime>
+    </File>
+    <File Include="PrincipalSinSesion.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="RevisionSolicitud.aspx">
+      <publishTime>06/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="ServicioNoSoportado.aspx">
+      <publishTime>06/08/2017 06:24:30</publishTime>
+    </File>
+    <File Include="SolicitudesPendientes.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="SolicitudNoEncontrada.aspx">
+      <publishTime>06/08/2017 06:24:30</publishTime>
+    </File>
+    <File Include="VerMotivosRechazos.aspx">
+      <publishTime>06/06/2017 01:35:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/12/2017 10:39:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

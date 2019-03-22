@@ -1,0 +1,4 @@
+[0605/164710.699:ERROR:process_info.cc(625)] range at 0xe2da356400000000, size 0x13 fully unreadable
+[0605/164710.700:ERROR:process_info.cc(625)] range at 0xe2da35ca00000000, size 0x13 fully unreadable
+[0605/164710.700:ERROR:process_info.cc(625)] range at 0x0, size 0x13 fully unreadable
+[0605/164711.344:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose.  (0xc000010a)

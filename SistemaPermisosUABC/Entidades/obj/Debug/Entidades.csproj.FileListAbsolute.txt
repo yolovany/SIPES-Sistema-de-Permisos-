@@ -1,0 +1,23 @@
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Debug\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

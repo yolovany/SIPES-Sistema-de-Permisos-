@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MP_PrincipalSinSesion.master.cs" Inherits="SistemaPermisosUABC.MP_PrincipalSinSesion" %>
+
+<%@ Register Src="~/footer.ascx" TagPrefix="uc1" TagName="footer" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+          <!--  espacio para cambiar el nombre de la página -->
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <!-- Header -->
+            <header id="header" class="alt">
+        <a href="default.aspx" class="logo"><strong>SIPES</strong> <span>PERMISOS UABC</span></a>
+        <nav>
+            <asp:ContentPlaceHolder ID="header1" runat="server">
+                   <!--  contenido del header -->        
+    </asp:ContentPlaceHolder>
+            
+        </nav>
+    </header>
+          
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">             
+              
+            </asp:ContentPlaceHolder>
+
+            <uc1:footer runat="server" ID="footer" />
+        </div>
+    </form>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

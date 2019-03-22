@@ -1,0 +1,35 @@
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\bin\Debug\Datos.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\bin\Debug\Datos.pdb
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\bin\Debug\Entidades.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\bin\Debug\Entidades.pdb
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\obj\Debug\Datos.dll
+C:\Users\Jovany\Documents\Visual Studio 2015\Projects\SistemaPermisosUABC\Datos\obj\Debug\Datos.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.pdb
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.dll
+G:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Datos.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\bin\Debug\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Datos\obj\Debug\Datos.pdb

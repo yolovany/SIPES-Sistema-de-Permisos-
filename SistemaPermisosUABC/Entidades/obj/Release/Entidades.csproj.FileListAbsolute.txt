@@ -1,0 +1,15 @@
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Release\Entidades.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Release\Entidades.pdb
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.dll
+H:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Release\Entidades.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Release\Entidades.pdb
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.dll
+C:\Users\Jovany\Desktop\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Release\Entidades.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\bin\Release\Entidades.pdb
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.dll
+F:\FIAD\AMBIENTE DE PROGRAMACIÓN VISUAL\PROYECTO SISTEMA VIAJES UABC\SistemaPermisosUABC\Entidades\obj\Release\Entidades.pdb
